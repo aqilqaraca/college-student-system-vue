@@ -1,6 +1,7 @@
 # celttask
 
 > A Vue.js project
+> Tools used : Vuex, VueRouter, Vuelidate, Axios, Bootstrap
 
 ## Build Setup
 
